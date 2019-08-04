@@ -1,0 +1,3 @@
+<?php
+
+define("AUTH_TOKEN", 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsdW1lbi1qd3QiLCJzdWIiOnsiaWQiOjEwNSwibmFtZSI6IktvbnRha3QifSwiaWF0IjoxNTY0MzA0NzYyLCJleHAiOjE1NjQzMDgzNjJ9.XjaPpuEUxWzxdYIIEqKG-yZSiw-9NxjYlY1tlLzuTVg');
