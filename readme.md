@@ -19,7 +19,7 @@ Laravel utilizes composer to manage its dependencies. So, before using Laravel, 
 - docker-compose exec php sh
 - composer install
 
-## Database Setup
+## Database
 You need to set up your database credential in .env file as follows.
 
 - DB_CONNECTION=mysql
@@ -32,7 +32,7 @@ You need to set up your database credential in .env file as follows.
 Further, you can performe CRUD operations in mysql as per your provided csv file to run and test the API endpoints. I also added complete sql file in the docs folder at root. You may need to run below command for mysql interface.
 - docker-compose exec mysql sh
 
-## HTTP-Endpoints
+## Endpoints
 Application implemented by Double-Opt-In process.
 
 - GET /products
@@ -44,7 +44,7 @@ Application implemented by Double-Opt-In process.
 
 Further, you can check APIS request and response from docs/api.docx file.
 
-## Run project
+## Run
 Use the following application link to run at localhost
 - http://localhost:8000
 
